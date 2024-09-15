@@ -1,4 +1,4 @@
-#include "function.h"  // 假设头文件名为 functions.h
+#include "function.h"  // 假设头文件名为 function.h
 
 int main() {
     int choice;
