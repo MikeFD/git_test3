@@ -9,7 +9,7 @@ ElemType add(ElemType a, ElemType b) {
 
 ElemType triple_minus(ElemType a, ElemType b, ElemType c)
 {
-	retuen a - b - c;
+	return a - b - c;
 
 }
 
