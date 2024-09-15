@@ -1,4 +1,6 @@
-#include "function.h"
+ElemType add(ElemType a, ElemType b) {
+    return a + b;
+}
 
 
 
