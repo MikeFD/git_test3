@@ -43,7 +43,7 @@ int main() {
             }
             break;
         case 5:
-            cout << "请输入三个整数：";
+            cout << "请输入三个整数："  ;
             cin >> a >> b >> c;
             cout << "结果：" << triple_add(a, b, c) << endl;
             break;
