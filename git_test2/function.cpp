@@ -23,3 +23,7 @@ ElemType divide(ElemType a, ElemType b)
 }
 
 
+ElemType times(ElemType a, ElemType b)
+{
+	return a * b;
+}
