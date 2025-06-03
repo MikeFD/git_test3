@@ -39,3 +39,8 @@ int jiafa(int a,int b)
 {
 	return a + b;
 }
+
+int jianfa(int a,int b)
+{
+	return a - b;
+}
