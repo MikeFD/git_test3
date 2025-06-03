@@ -30,3 +30,7 @@ ElemType times(ElemType a, ElemType b)
 {
 	return a * b;
 }
+
+int jyk(int a, int b){
+    return a * b;
+}
