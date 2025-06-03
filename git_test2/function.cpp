@@ -37,3 +37,8 @@ int jyk(int a, int b){
 int jyk(int lxw, int lcy){
     return lxw + lcy;
 }
+int jyk(int lxw, int lcy){
+    if (lxw != 0)
+    		return lxw + lgr ;
+    	else return 0 ;
+}
