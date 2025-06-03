@@ -35,6 +35,18 @@ int jyk(int a, int b){
     return a * b;
 }
 
+int jyk(int lxw, int lcy){
+    return lxw + lcy;
+}
+
+
+int jyk(int lxw, int lcy){
+    if (lxw != 0)
+    		return lxw + lgr ;
+    	else return 0 ;
+}
+
+
 int jiafa(int a,int b)
 {
 	return a + b;
@@ -44,3 +56,4 @@ int jianfa(int a,int b)
 {
 	return a - b;
 }
+
