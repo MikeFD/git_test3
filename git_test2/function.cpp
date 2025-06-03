@@ -34,3 +34,8 @@ ElemType times(ElemType a, ElemType b)
 int jyk(int a, int b){
     return a * b;
 }
+
+int jiafa(int a,int b)
+{
+	return a + b;
+}
